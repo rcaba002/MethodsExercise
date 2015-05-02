@@ -1,0 +1,6 @@
+C:\Work\Claim\MethodsExercise\StudentScores\bin\Debug\StudentScores.exe.config
+C:\Work\Claim\MethodsExercise\StudentScores\bin\Debug\StudentScores.exe
+C:\Work\Claim\MethodsExercise\StudentScores\bin\Debug\StudentScores.pdb
+C:\Work\Claim\MethodsExercise\StudentScores\obj\Debug\StudentScores.csprojResolveAssemblyReference.cache
+C:\Work\Claim\MethodsExercise\StudentScores\obj\Debug\StudentScores.exe
+C:\Work\Claim\MethodsExercise\StudentScores\obj\Debug\StudentScores.pdb

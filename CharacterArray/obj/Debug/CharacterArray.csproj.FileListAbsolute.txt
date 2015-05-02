@@ -1,0 +1,6 @@
+C:\Work\Claim\MethodsExercise\CharacterArray\bin\Debug\CharacterArray.exe.config
+C:\Work\Claim\MethodsExercise\CharacterArray\bin\Debug\CharacterArray.exe
+C:\Work\Claim\MethodsExercise\CharacterArray\bin\Debug\CharacterArray.pdb
+C:\Work\Claim\MethodsExercise\CharacterArray\obj\Debug\CharacterArray.csprojResolveAssemblyReference.cache
+C:\Work\Claim\MethodsExercise\CharacterArray\obj\Debug\CharacterArray.exe
+C:\Work\Claim\MethodsExercise\CharacterArray\obj\Debug\CharacterArray.pdb
